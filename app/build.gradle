@@ -22,3 +22,7 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:27.1.0'
     implementation project(':kdgaugeview')
 }
+
+ apply plugin: 'com.github.dcendents.android-maven'
+
+ group='com.github.ceessay'
